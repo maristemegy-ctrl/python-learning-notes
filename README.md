@@ -1,4 +1,4 @@
-# 🐍 Python From Zero
+#  Python From Zero
 
 Welcome to my Python learning journey!
 
